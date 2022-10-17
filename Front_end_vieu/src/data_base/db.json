@@ -1,0 +1,60 @@
+{
+    "results": [
+        {
+            "barrio": "Raval",
+            "poblacion": 48263,
+            "poblacion_mayor_65": 11.3,
+            "poblacion_mayor65_sola": 31.9,
+            "renta_familia_habitante": 71.2
+        },
+        {
+            "barrio": "l'Eixample",
+            "poblacion": 43228,
+            "poblacion_mayor_65": 20.8,
+            "poblacion_mayor65_sola": 29,
+            "renta_familia_habitante": 137.2
+        },
+        {
+            "barrio": "Raval",
+            "poblacion": 48263,
+            "poblacion_mayor_65": 11.3,
+            "poblacion_mayor65_sola": 31.9,
+            "renta_familia_habitante": 71.2
+        },
+        {
+            "barrio": "Gótic",
+            "poblacion": 21715,
+            "poblacion_mayor_65": 10.1,
+            "poblacion_mayor65_sola": 30.2,
+            "renta_familia_habitante": 106.1
+        },
+        {
+            "barrio": "Barceloneta",
+            "poblacion": 15112,
+            "poblacion_mayor_65": 17,
+            "poblacion_mayor65_sola": 32.8,
+            "renta_familia_habitante": 79.6
+        },
+        {
+            "barrio": "Sant Antoni",
+            "poblacion": 38906,
+            "poblacion_mayor_65": 22,
+            "poblacion_mayor65_sola": 28.5,
+            "renta_familia_habitante": 104.2
+        },
+        {
+            "barrio": "Sant Gervasi",
+            "poblacion": 26245,
+            "poblacion_mayor_65": 21.9,
+            "poblacion_mayor65_sola": 23.5,
+            "renta_familia_habitante": 184.6
+        },
+        {
+            "barrio": "El Besos i el maresme",
+            "poblacion": 25501,
+            "poblacion_mayor_65": 16.4,
+            "poblacion_mayor65_sola": 26.4,
+            "renta_familia_habitante": 60.4
+        }
+    ]
+}
